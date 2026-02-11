@@ -6,6 +6,7 @@ using backend.Interfaces;
 using backend.models;
 using backend.Data;
 using Microsoft.EntityFrameworkCore;
+using backend.Models;
 
 namespace backend.Repositories
 {
@@ -31,6 +32,7 @@ namespace backend.Repositories
 
         public async Task<Comment?> CreateAsync(Comment commentModel)
         {
+            
             await _context.Comments.AddAsync(commentModel);
             await _context.SaveChangesAsync();
             return commentModel;

@@ -308,3 +308,4 @@ C:\Users\SakshiAuradkar\Desktop\c-net learning\LearningProject\Backend\obj\Debug
 C:\Users\SakshiAuradkar\Desktop\c-net learning\LearningProject\Backend\obj\Debug\net8.0\backend.pdb
 C:\Users\SakshiAuradkar\Desktop\c-net learning\LearningProject\Backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\SakshiAuradkar\Desktop\c-net learning\LearningProject\Backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\SakshiAuradkar\Desktop\c-net learning\learningProject\backend\obj\Debug\net8.0\backend.sourcelink.json

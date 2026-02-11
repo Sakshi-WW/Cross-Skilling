@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SakshiAuradkar\\Desktop\\c-net learning\\LearningProject\\Backend\\backend.csproj": {}
+    "C:\\Users\\SakshiAuradkar\\Desktop\\c-net learning\\learningProject\\backend\\backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SakshiAuradkar\\Desktop\\c-net learning\\LearningProject\\Backend\\backend.csproj": {
+    "C:\\Users\\SakshiAuradkar\\Desktop\\c-net learning\\learningProject\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SakshiAuradkar\\Desktop\\c-net learning\\LearningProject\\Backend\\backend.csproj",
+        "projectUniqueName": "C:\\Users\\SakshiAuradkar\\Desktop\\c-net learning\\learningProject\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "C:\\Users\\SakshiAuradkar\\Desktop\\c-net learning\\LearningProject\\Backend\\backend.csproj",
+        "projectPath": "C:\\Users\\SakshiAuradkar\\Desktop\\c-net learning\\learningProject\\backend\\backend.csproj",
         "packagesPath": "C:\\Users\\SakshiAuradkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SakshiAuradkar\\Desktop\\c-net learning\\LearningProject\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\SakshiAuradkar\\Desktop\\c-net learning\\learningProject\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
